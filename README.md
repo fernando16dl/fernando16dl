@@ -1,7 +1,10 @@
 ### Hola 👋
 # Redes
-| 1 | 2 | 3 |
-| A | B | C |
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 <!--
 **fernando16dl/fernando16dl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
