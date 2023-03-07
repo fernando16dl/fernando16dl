@@ -1,4 +1,4 @@
-### Hola 👋
+# <p style="text-align: center;">Hello</p>
 # Redes
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
