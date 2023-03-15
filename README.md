@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello Coders!💻&animation=fadeOut&type=waving&color=gradient&height=100"/>
-</p>
+
+![header](https://capsule-render.vercel.app/api?text=Hello%20Coders!💻&animation=fadeOut&type=waving&color=gradient&height=90)
 
 <hr>
 
