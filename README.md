@@ -38,3 +38,20 @@
 <hr>
 
 ## Alias Commands
+edit in VS Code `Code /.bashrc`
+| Alias    | Git Command                 | Alias Command Add                                          |
+| -------- |-----------------------------|------------------------------------------------------------|
+| `g`      | git                         | alias g="git"                                              |
+| `gco`    | git checkoput               | alias gco="git checkoput"                                  |
+| `gs`     | git status                  | alias gs="git status"                                      |
+| `ga`     | git add                     | alias ga="git add"                                         |
+| `gaa`    | git add .                   | alias gaa="git add ."                                      |
+| `gcm`    | git commit -m               | alias gcm="git commit -m"                                  |
+| `gcam`   | git commit -am              | alias gcam="git commit -am"                                |
+| `gca`    | git commit -amend           | alias gca="git commit -amend"                              |
+| `gpl`    | git pull                    | alias gpl="git pull"                                       |
+| `gplf`   | git pull --force            | alias gplf="git pull --force"                              |
+| `gplff`  | git pull --force-with-lease | alias gplff="git pull --force-with-lease"                  |
+| `gps`    | git push                    | alias gps="git push"                                       |
+| `gpsf`   | git push --force            | alias gpsf="git push --force"                              |
+| `cl  `   | clear                       | alias cl="clear"                                           |
